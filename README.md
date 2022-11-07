@@ -1,5 +1,4 @@
 # Dev Resources - A very unreasonable checklist
-## [u/csmastermind's list](csmastermind's%20dev%20booklist.md);
 
 ## [wtsx'](https://github.com/wtsxDev/Penetration-Testing/blob/master/README.md#books) cybersec booklist from github
 
