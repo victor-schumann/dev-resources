@@ -167,7 +167,7 @@
 * [Top 5 books Programming Books](http://www.kalitut.com/2017/01/Top-Programming-Books.html)
 * [Top Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
 * [Windows Internals by Mark Russinovich et al., 2012](http://amzn.to/2jl4zGJ)
-</details><br>
+</details>
 
 ## [CSMastermind](https://www.reddit.com/user/CSMastermind/) tech booklist from reddit
 > I've posted this before, but I'll repost it here:
