@@ -170,7 +170,6 @@
 </details>
 
 ## [CSMastermind](https://www.reddit.com/user/CSMastermind/) tech booklist from reddit
-> I've posted this before, but I'll repost it here:
 
 <details><summary>1. Job Interview Prep</summary>
 
