@@ -33,7 +33,7 @@ Yet, it is indeed a fast-paced reading, and many topics are useful, specially th
 
 <details><summary>2. Junior Software Engineer</summary>
 
--[x] [**Pragmatic Thinking and Learning**: Refactor Your Wetware](https://www.amazon.com/gp/product/1934356050/)
+- [x] [**Pragmatic Thinking and Learning**: Refactor Your Wetware](https://www.amazon.com/gp/product/1934356050/)
   
 <details><summary>Fundamentals</summary>
 
