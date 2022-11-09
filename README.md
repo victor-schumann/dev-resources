@@ -1,7 +1,7 @@
 # Dev Resources - A very unreasonable checklist
 <details><summary><h2>Reviews</h2></summary>
 
-My Goodreads account is a better tool to check what I've read, and what I'm reading, but since most of my reviews don't surpass the 10th word mark, I decided to use this space to make more in-depth reviews about what I actually managed to read from this list. Enjoy!
+My [Goodreads account](https://www.goodreads.com/user/show/151721070-victor-schumann) is a better tool to check what I've read, and what I'm reading, but since most of my reviews don't surpass the 10th word mark, I decided to use this space to make more in-depth reviews about what I actually managed to read from this list. Enjoy!
 
 <details><summary><b>Pragmatic Thinking and Learning</b></summary>
 
